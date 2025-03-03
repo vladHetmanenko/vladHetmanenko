@@ -81,4 +81,8 @@ I'm passionate about continuous learning and actively seek opportunities to enha
           
 <br />
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vladHetmanenko/vladHetmanenko/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vladHetmanenko/vladHetmanenko/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/vladHetmanenko/vladHetmanenko/blob/output/github-snake.svg" />
+</picture>
