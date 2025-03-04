@@ -80,7 +80,7 @@ I'm passionate about continuous learning and actively seek opportunities to enha
 
           
 <br />
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladHetmanenko/vladHetmanenko/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladHetmanenko/vladHetmanenko/output/github-snake.svg" />
