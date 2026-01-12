@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Vlad Hetmanenko
 
-**`Development Manager` & `Backend Developer`**
+**`Development Manager & Backend Developer`**
 
 Greetings! I'm a backend developer from Ukraine, specializing in Python and Django, with hands-on experience in FastAPI. I thrive in creating efficient server-side applications and have developed a range of automation and data parsing scripts to optimize workflows. Additionally, I've built several Telegram bots tailored for unique functionalities.
 
